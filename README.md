@@ -161,6 +161,24 @@ The website is optimized for:
 
 ---
 
+## 🔑 Demo Login Credentials
+
+Use the following credentials to access the protected dashboard.
+
+**Email**
+
+```text
+user@wanderly.com
+```
+
+**Password**
+
+```text
+12345
+```
+
+> **Note:** This is a frontend-only demo application. Authentication is simulated using React and does not connect to a backend server.
+
 ## 👨‍💻 Author
 
 **Kishore**
