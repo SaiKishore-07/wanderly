@@ -4,13 +4,7 @@ Wanderly is a modern, responsive travel website built with **React** and **Tailw
 
 ## 🚀 Live Demo
 
-Coming Soon
-
-## 📸 Screenshots
-
-_Add screenshots after deployment._
-
----
+https://wanderly-opal.vercel.app/
 
 ## ✨ Features
 
@@ -58,43 +52,6 @@ _Add screenshots after deployment._
 - useCallback
 - Lazy Loading
 - Code Splitting
-
----
-
-## 📁 Project Structure
-
-```text
-src/
-│
-├── assets/
-│   └── images/
-│
-├── components/
-│   ├── Navbar.jsx
-│   ├── Footer.jsx
-│   ├── DestinationCard.jsx
-│   └── ProtectedRoute.jsx
-│
-├── dashboard/
-│   ├── Bookings.jsx
-│   └── Profile.jsx
-│
-├── data/
-│   └── destinations.js
-│
-├── pages/
-│   ├── Home.jsx
-│   ├── Destinations.jsx
-│   ├── DestinationDetails.jsx
-│   ├── About.jsx
-│   ├── Contact.jsx
-│   ├── Login.jsx
-│   ├── Dashboard.jsx
-│   └── NotFound.jsx
-│
-├── App.jsx
-└── main.jsx
-```
 
 ---
 
