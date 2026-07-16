@@ -1,16 +1,174 @@
-# React + Vite
+# 🌍 Wanderly
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Wanderly is a modern, responsive travel website built with **React** and **Tailwind CSS**. It allows users to explore popular travel destinations, view destination details, manage bookings, and access a protected dashboard with a clean and intuitive user interface.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Coming Soon
 
-## React Compiler
+## 📸 Screenshots
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+_Add screenshots after deployment._
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 🏝️ Beautiful Home Page
+- 🌎 Explore 12 Popular Destinations
+- 📍 Destination Details Page
+- 🔒 Protected Dashboard
+- 📅 My Bookings Page
+- 👤 User Profile Page
+- 📖 About Page
+- 📞 Contact Page
+- 🔑 Login Page
+- ❌ Custom 404 Not Found Page
+- 📱 Fully Responsive Design
+- ⚡ Lazy Loading
+- 🚀 Code Splitting
+- 🎯 React Performance Optimization
+
+---
+
+## 🛠️ Technologies Used
+
+- React 19
+- React Router DOM
+- Tailwind CSS
+- Vite
+- JavaScript (ES6+)
+
+---
+
+## 📚 React Concepts Used
+
+- Functional Components
+- Props
+- useState
+- useEffect
+- useContext
+- React Router
+- Protected Routes
+- Dynamic Routing
+- Conditional Rendering
+- Controlled Forms
+- React.memo
+- useMemo
+- useCallback
+- Lazy Loading
+- Code Splitting
+
+---
+
+## 📁 Project Structure
+
+```text
+src/
+│
+├── assets/
+│   └── images/
+│
+├── components/
+│   ├── Navbar.jsx
+│   ├── Footer.jsx
+│   ├── DestinationCard.jsx
+│   └── ProtectedRoute.jsx
+│
+├── dashboard/
+│   ├── Bookings.jsx
+│   └── Profile.jsx
+│
+├── data/
+│   └── destinations.js
+│
+├── pages/
+│   ├── Home.jsx
+│   ├── Destinations.jsx
+│   ├── DestinationDetails.jsx
+│   ├── About.jsx
+│   ├── Contact.jsx
+│   ├── Login.jsx
+│   ├── Dashboard.jsx
+│   └── NotFound.jsx
+│
+├── App.jsx
+└── main.jsx
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/yourusername/wanderly.git
+```
+
+Go to the project folder
+
+```bash
+cd wanderly
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+Build the project
+
+```bash
+npm run build
+```
+
+Preview the production build
+
+```bash
+npm run preview
+```
+
+---
+
+## 📱 Responsive Design
+
+The website is optimized for:
+
+- Mobile
+- Tablet
+- Laptop
+- Desktop
+
+---
+
+## 🎯 Future Improvements
+
+- Backend Integration
+- User Authentication
+- Booking API
+- Payment Gateway
+- Search & Filters
+- Favorites/Wishlist
+- Dark Mode
+
+---
+
+## 👨‍💻 Author
+
+**Kishore**
+
+Frontend React Developer
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub.
